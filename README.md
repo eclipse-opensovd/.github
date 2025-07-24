@@ -1,0 +1,2 @@
+# .github
+OpenSOVD org readme
