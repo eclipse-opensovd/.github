@@ -23,7 +23,7 @@ See [README in Eclipse OpenSOVD main repository](https://github.com/eclipse-open
 |------------|-------------|--------|
 | [opensovd-core](https://github.com/eclipse-opensovd/opensovd-core) | OpenSOVD core containing Server, Client and Gateway | ✅ active |
 | [classic-diagnostic-adapter](https://github.com/eclipse-opensovd/classic-diagnostic-adapter/) | Classic Diagnostic Adapter (CDA) | ✅ active |
-| [uds2sovd-proxy](https://github.com/eclipse-opensovd/uds2sovd-proxy) | Proxy component mapping UDS requests to SOVD ones | ✅ active |
+| [uds2sovd-proxy](https://github.com/eclipse-opensovd/uds2sovd-proxy) | Proxy component mapping UDS requests to SOVD ones | ⏸️ paused |
 
 ### Tools
 
@@ -41,3 +41,4 @@ See [README in Eclipse OpenSOVD main repository](https://github.com/eclipse-open
 | [dlt-tracing-lib](https://github.com/eclipse-opensovd/dlt-tracing-lib) | Rust tracing appender and wrapper for libdlt | 🕓 stale |
 | [fault-lib](https://github.com/eclipse-opensovd/fault-lib) | OpenSOVD Fault Library | 🕓 stale |
 | [cpp-bindings](https://github.com/eclipse-opensovd/cpp-bindings) | C++ libs providing APIs and binding implementations for communicating with SOVD core components | 🕓 stale |
+| [mbedtls-rs](https://github.com/eclipse-opensovd/mbedtls-rs) | Patched Mbed TLS and Rust bindings for OpenSOVD | ✅ active |
